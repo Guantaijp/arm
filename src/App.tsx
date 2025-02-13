@@ -1,5 +1,5 @@
 import './App.css'
-import LandingPage from './components/LandingPage.tsx'  // Make sure LandingPage.tsx is in the same directory
+import LandingPage from './components/homepage/LandingPage.tsx'  // Make sure LandingPage.tsx is in the same directory
 
 function App() {
 
